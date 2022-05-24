@@ -1,0 +1,13 @@
+{
+  "name": "cypress-hashnode-sample",
+  "version": "1.0.0",
+  "description": "sample application to test cypress against hashnode",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "9.2.0",
+    "lambdatest-cypress-cli": "^2.4.9",
+    "typescript": "^4.5.4"
+  }
+}
